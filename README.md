@@ -12,3 +12,14 @@ Homeworks and Projects
 8. SVM (linear, radial and polynomial kernels)
 
 ## Project
+
+### ML Algorithms
+1. Multiple Linear Regression
+2. KNN Regression
+3. Support Vector Regression
+4. Bagging/Random Forest
+5. Boosting
+6. Multilayer Perceptron 
+
+#### Model Improvement and Best Model
+- Random Forest and PCA
