@@ -13,6 +13,12 @@ Homeworks and Projects
 
 ## Project
 
+<img src="https://user-images.githubusercontent.com/65777681/101667802-63526300-3a15-11eb-93cb-a036214a5e3a.jpg" width="600">
+
+<img src="https://user-images.githubusercontent.com/65777681/101667992-9eed2d00-3a15-11eb-9517-33f3cb1415e0.jpg" width="600">
+
+<img src="https://user-images.githubusercontent.com/65777681/101668041-aad8ef00-3a15-11eb-9b05-6ca0a256c5a5.jpg" width="600">
+
 ### ML Algorithms
 1. Multiple Linear Regression
 2. KNN Regression
